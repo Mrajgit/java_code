@@ -1,0 +1,3 @@
+hello new file!.....
+welcome to my new file
+this file is created by createNewFile function
